@@ -1,0 +1,41 @@
+Home Page
+1) dashboard
+2) Graph(------------)
+3) Offers
+4) EMI Calculator 
+5) Information
+6) Interest Rate
+7) Apply For loan 
+   * Loan for Construction of home 
+   * Loan for redeemed Home
+8) login/Sign In 
+
+
+
+
+
+
+Apply for Loan          
+1) name                       check  enquiry officer
+2) address                     if valid ask for uploading 
+3) email                             documents 
+4) Amount of loan
+5) Occupation 
+6) Monthly /Annual income
+
+
+
+Documents
+Address proof, pancard, salary slip, salary account ,Mortgage 
+Verify documents and cibil score is acceptable then customers get registered otherwise send msg of rejection of loan.
+
+
+
+Branch Manager Login
+Registered customers list 
+Manager is ok with it then sanction loan to customer and generate sanction latter to another login,
+Otherwise send msg of rejection with reason of rejection 
+
+       Another Login
+This login send confirmation msg to customer with details of loan amount, EMI and other rules and regulation and finally allow the loan to customer
+
